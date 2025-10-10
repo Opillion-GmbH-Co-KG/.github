@@ -1,7 +1,7 @@
 # easy-stack - prototyping tools - production development
 
 ## What We Do
-Opillion Software designs, builds, and operates resilient digital platforms that combine product strategy, backend engineering, and applied AI. Our focus is on connecting complex ecosystems through reliable integrations, observable services, and production-ready large language models.
+Opillion designs Software, builds, and operates resilient digital platforms that combine product strategy, backend engineering, and applied AI. Our focus is on connecting complex ecosystems through reliable integrations, observable services, and production-ready large language models.
 
 ## Core Services
 - **Product & Platform Strategy** – Translate business goals into actionable platform roadmaps and service blueprints that teams can implement.
