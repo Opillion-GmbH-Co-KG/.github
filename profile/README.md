@@ -1,4 +1,4 @@
-# easy-stack - prototyping tools
+# easy-stack - prototyping tools - production development
 
 ## What We Do
 Opillion Software designs, builds, and operates resilient digital platforms that combine product strategy, backend engineering, and applied AI. Our focus is on connecting complex ecosystems through reliable integrations, observable services, and production-ready large language models.
