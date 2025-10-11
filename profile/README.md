@@ -23,7 +23,6 @@ Our team has shipped products and platforms across:
 - Industrial logistics, barcode-enabled fulfillment, and manufacturing
 - Insurance and housing desktop applications
 
-Explore the `/web/referenzen` directory for detailed case study write-ups spanning 1995 through today.
 
 ## Technology Stack Highlights
 - **Platform Foundations:** Symfony 7, PHP 8.3, API Platform, Doctrine, EasyAdmin, event sourcing, and hexagonal architecture.
