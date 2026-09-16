@@ -1,41 +1,39 @@
-# opillion.
+# easy-stack - prototyping tools - production development
 
-## Neue Ideen? Anforderungen?
+## What We Do
+Opillion designs Software, builds, and operates resilient digital platforms that combine product strategy, backend engineering, and applied AI. Our focus is on connecting complex ecosystems through reliable integrations, observable services, and production-ready large language models.
 
-Wir stellen die Dienstleistung und entwickeln Ihre Software.
+## Core Services
+- **Product & Platform Strategy** – Translate business goals into actionable platform roadmaps and service blueprints that teams can implement.
+- **Backend & API Engineering** – Deliver modular Symfony/PHP backends, event-driven services, and hexagonal architectures tailored to complex domains.
+- **Data Platforms & Integrations** – Build messaging, storage, and search layers with PostgreSQL, MySQL, Redis, RabbitMQ, and Elasticsearch to keep critical data in sync.
+- **AI & LLM Enablement** – Embed OpenAI-powered assistants, automation, and vector search to unlock new customer and operator experiences.
+- **Operations & Observability** – Establish CI/CD pipelines, infrastructure-as-code, and telemetry with Docker, Kubernetes, Grafana, and Kibana to keep platforms measurable and dependable.
 
-**Klassisch programmiert oder mit AI erstellt, Sie entscheiden.**
+## How We Work
+We operate as a lead engineering partner and activate a trusted network of specialists in mobility, product design, and fractional CTO leadership whenever projects require broader expertise. The result is cross-functional delivery teams that can advise, implement, and transition solutions into stable operations.
 
-[Website ansehen](https://www.opillion.com/) · [Projekt besprechen](https://www.opillion.com/#kontakt)
+## Industries & Case Studies
+Our team has shipped products and platforms across:
+- Corporate mobility and fleet platforms
+- Travel booking, aviation, and GDS/API modernisation
+- Energy and utilities billing backends
+- B2B commerce and retail marketplaces
+- Media, entertainment, and accounting systems
+- Industrial logistics, barcode-enabled fulfillment, and manufacturing
+- Insurance and housing desktop applications
 
-## Von der Idee bis zum Betrieb
 
-### Softwareentwicklung
+## Technology Stack Highlights
+- **Platform Foundations:** Symfony 7, PHP 8.3, API Platform, Doctrine, EasyAdmin, event sourcing, and hexagonal architecture.
+- **Data & Messaging:** PostgreSQL, MySQL, Redis, RabbitMQ, Elasticsearch, and vector search components.
+- **Infrastructure & Ops:** Docker, Docker Compose, Podman, CI/CD pipelines, Kubernetes, AWS, Grafana, Kibana, and comprehensive observability.
+- **Identity & Quality:** Keycloak for identity and PHPUnit-driven automated testing.
+- **AI Tooling:** OpenAI and large language model integrations for production workloads.
+- **Web Experiences:** Static site generators and lightweight front-ends for marketing and documentation surfaces.
 
-Maßgeschneiderte Software mit PHP und Symfony für komplexe Anforderungen. Robust, wartbar und zukunftsfähig.
+## Open Source & Accelerators
+We maintain open repositories such as this Easy Stack blueprint to help teams launch Symfony-based platforms with modern dev tooling, shared services, and AI-ready capabilities. Contributions and collaborations are welcome—reach out via Issues or Discussions to explore joint initiatives.
 
-### Schnittstellen & Integration
-
-Systeme und Daten intelligent verbinden. Für durchgängige Prozesse und reibungslose Abläufe.
-
-### Automatisierung
-
-Wiederkehrende Aufgaben automatisieren. Effizienz steigern. Freiräume schaffen.
-
-### Legacy Code Refactoring
-
-Gewachsene Software gezielt modernisieren. Komplexität reduzieren und Code wieder wartbar machen.
-
-## So arbeiten wir
-
-1. **Verstehen:** Ziele, bestehende Systeme und tatsächliche Anforderungen erfassen, Aufgabenverteilung klären.
-2. **Umsetzen:** In überschaubaren Schritten entwickeln, Entscheidungen erklären und Ergebnisse früh sichtbar machen.
-3. **Weiterdenken:** Den Übergang in den Betrieb mitplanen, Wissen weitergeben und Raum für Veränderung lassen.
-
-## Branchenerfahrung
-
-Handel · Payment · Zahlungsdienstleister · Versicherungen · Energie · Tourismus · Mobilität · Medien · Immobilien · Logistik · Öffentliche Verwaltung
-
-## Kontakt
-
-Sie müssen liefern? Wir helfen. [Lassen Sie uns darüber sprechen.](https://www.opillion.com/#kontakt)
+## Get in Touch
+Have a project in mind or need a second opinion on your platform roadmap? Start a conversation via our contact channels on the website or message us on GitHub to discover how Opillion Software can support your next release.
