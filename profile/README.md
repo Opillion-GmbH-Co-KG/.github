@@ -33,7 +33,7 @@ Our team has shipped products and platforms across:
 - **Web Experiences:** Static site generators and lightweight front-ends for marketing and documentation surfaces.
 
 ## Open Source & Accelerators
-We maintain open repositories such as this Easy Stack blueprint to help teams launch Symfony-based platforms with modern dev tooling, shared services, and AI-ready capabilities. Contributions and collaborations are welcome—reach out via Issues or Discussions to explore joint initiatives.
+We maintain open repositories such as this Easy Stack blueprint to help teams launch Symfony-based platforms with modern dev tooling, shared services, and AI-ready capabilities. Contributions to our public repositories are welcome.
 
 ## Get in Touch
-Have a project in mind or need a second opinion on your platform roadmap? Start a conversation via our contact channels on the website or message us on GitHub to discover how Opillion Software can support your next release.
+Have a project in mind or need a second opinion on your platform roadmap? Contact us through the [contact form on opillion.com](https://www.opillion.com/index.en.html#kontakt) to discuss how Opillion can support your next release.
