@@ -36,4 +36,4 @@ Our team has shipped products and platforms across:
 We maintain open repositories such as this Easy Stack blueprint to help teams launch Symfony-based platforms with modern dev tooling, shared services, and AI-ready capabilities. Contributions to our public repositories are welcome.
 
 ## Get in Touch
-Have a project in mind or need a second opinion on your platform roadmap? Contact us through the [contact form on opillion.com](https://www.opillion.com/index.en.html#kontakt) to discuss how Opillion can support your next release.
+Have a project in mind or need a second opinion on your platform roadmap? Contact us through the [contact form on opillion.com](https://www.opillion.com/index.en.html#contact) to discuss how Opillion can support your next release.
